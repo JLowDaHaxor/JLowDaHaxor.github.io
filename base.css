@@ -163,5 +163,20 @@ body {
 }
 
 .restart:hover {
-  opacity:1;
+  opacity: 1;
+}
+
+footer{
+  background-color: #333;
+  min-height: auto;
+  padding: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+footer{
+  color: #F1FAEE;
+}
+footer a{
+  color: #F1FAEE;
 }
